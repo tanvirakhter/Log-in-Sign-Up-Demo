@@ -102,6 +102,11 @@ form.sign-in-form {
   font-weight: 500;
 }
 
+.forget-pass {
+  padding: 0.7rem 0;
+  font-size: .8rem;
+}
+
 .social-text {
   padding: 0.7rem 0;
   font-size: 1rem;
